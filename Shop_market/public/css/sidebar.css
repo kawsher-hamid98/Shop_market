@@ -1,0 +1,6 @@
+
+ul li:hover{
+    background-color: #2a9055;
+    transition: 0.3s;
+    color: #f8f9fa;
+}
